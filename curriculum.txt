@@ -1,0 +1,57 @@
+Bruno's curriculum
+
+
+1. Introduction
+
+Computer Science undergraduate student seeking an internship to gain professional experience and foster career 
+development. Throughout my academic journey, I have been awarded over 30 medals in Olympiads across a wide range of 
+fields, from Mathematics to Economics. Proactive, communicative, and a fast learner, I am looking for a company that values 
+interpersonal skills such as teamwork and leadership.
+
+
+2. Education
+
+B.Sc. in Computer Science – Federal University of Rio de Janeiro (UFRJ)
+GPA: 9.6/10 | Expected Graduation: 2027.2
+
+Exchange Semester – Technical University of Munich
+
+Exchange program with scholarship at the best university in the European Union and 27th in the world. Taking the opportunity 
+to deepen my knowledge in my field of interest: Data Science. 
+Courses taken: Business Analytics and Machine Learning, Introduction to Deep Learning, Fundamentals of Artificial 
+Intelligence, Visual Data Analytics, English – Advanced Business Communication C2.  
+
+
+3. Experience
+
+Undergraduate Research – Analysis of Differential Equation Systems
+* Scholarship holder of the Scientific Initiation and Master’s Program (PICME). 
+* Research in Differential Algebra, with presentations in four undergraduate research events.
+* Currently submitting a paper in the field. 
+
+Back-end Developer at UFRJ’s Junior Consulting and Microinformatics Company
+* Contributed to a full project, gaining experience across the entire software development lifecycle.
+* Gained experience in: Relational Database Modeling and Management, API REST development, 
+version control with Git, and agile methodologies (Scrum and Kanban).
+
+Scholarship holder - PIC Junior Scientific Initiation Program
+* 5 years Scholarship holder of the Scientific Initiation Program (PIC), awarded due to five medals in the Brazilian Mathematics Olympiad 
+of Public Schools (OBMEP).
+
+Extension Project – InformAÇÃO
+* Extension group of UFRJ’s Computer Science Institute. 
+* Developed training material on Critical Data Literacy for K-12 teachers, aiming to support its implementation in classrooms. 
+
+
+4. Projects
+
+4.1. Retail Store Demand Forecasting Model 
+ 
+Final project of a Data Science Bootcamp completed in the first semester of 2025. Large-scale customer purchase data was 
+used to identify behavioral patterns and generate insights for developing an efficient forecasting model. Implemented all stages 
+of a Data Science project: Data Collection, Preprocessing, Exploratory Analysis, Feature Engineering, and Machine Learning 
+Model development.
+
+4.2. Database-Integrated Website 
+Data collection, processing, storage, and visualization in Python. Used SQLAlchemy for populating a MySQL database and 
+SQL for querying. Developed a website using the Flask framework. 
